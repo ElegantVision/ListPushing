@@ -11,16 +11,22 @@
 The Act Of Pushing-- Moving all values inside of list from bottom (end index) to top (beginning index 0)
 then overwriting the last index position with the desired item.</Description>
     <Copyright>2021</Copyright>
-    <PackageIcon>YT_AvatarIcon.png</PackageIcon>
+    <PackageIcon>YT_AvatarIcon340.png</PackageIcon>
     <PackageIconUrl />
+    <RepositoryUrl>https://github.com/ElegantVision/ListPushing</RepositoryUrl>
+    <PackageTags>sondersolutionsxm, methods, extensions, libarary, dll</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>C:\Users\JoshuaXM\source\repos\ListPushing\ListPushing\ListPushing.xml</DocumentationFile>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\JoshuaXM\source\repos\ListPushing\ListPushing\ListPushing.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
-    <None Include="G:\YoutubeStuff\SonderSolutionsXM_Channel\Creation\YT_AvatarIcon.png">
+    <None Include="G:\YoutubeStuff\SonderSolutionsXM_Channel\Creation\YT_AvatarIcon340.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
